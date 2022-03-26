@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "profiles": [
+    {
+      "name": "jaydeep ajitsingh khatri",
+      "age": "21",
+      "address": "himmatnagar",
+      "department": "It",
+      "salary": "22",
+      "Married": "yes",
+      "id": 1
+    },
+    {
+      "name": "palak",
+      "age": "23",
+      "address": "himmatnagar",
+      "department": "It",
+      "salary": "23",
+      "Married": "yes",
+      "id": 2
+    },
+    {
+      "name": "khushbu",
+      "age": "26",
+      "address": "himmatnagar",
+      "department": "It",
+      "salary": "25",
+      "Married": "yes",
+      "id": 3
+    },
+    {
+      "name": "khushbu",
+      "age": "26",
+      "address": "himmatnagar",
+      "department": "It",
+      "salary": "25",
+      "Married": "yes",
+      "id": 4
+    },
+    {
+      "name": "cc",
+      "age": "11",
+      "address": "ac",
+      "department": "casc2222",
+      "salary": "33",
+      "Married": "yes",
+      "id": 5
+    },
+    {
+      "name": "kk",
+      "age": "11",
+      "address": "ac",
+      "department": "casc2222",
+      "salary": "222",
+      "Married": "yes",
+      "id": 6
+    },
+    {
+      "name": "kk",
+      "age": "11",
+      "address": "ac",
+      "department": "casc2222",
+      "salary": "222",
+      "Married": "yes",
+      "id": 7
+    },
+    {
+      "name": "cael",
+      "age": "22",
+      "address": "jbdck",
+      "department": "skbc",
+      "salary": "00",
+      "Married": "yes",
+      "id": 8
+    }
+  ]
+}
